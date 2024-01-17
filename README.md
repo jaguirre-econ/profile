@@ -11,16 +11,11 @@
 
 ### 📄 [Link a CV](https://github.com/jaguirre-econ/profile/blob/main/CV%20-%20Aguirre%2C%20Joaqu%C3%ADn.pdf)
 
-[Python](#python)
-
-[Python](#🐍python)
-
-
 # Proyectos de análisis y ciencia de datos
 
 ## 📊 Power BI 
 
-**Proyecto 'Pizza Sales':** 🔗 [**Link**]()
+**Proyecto 'Pizza Sales':** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Pizza%20Sales%20Report.pbix)
 
 Dashboard referido a una compañía ficticia dedicada a la venta de pizzas. 
 
@@ -28,7 +23,7 @@ Dashboard referido a una compañía ficticia dedicada a la venta de pizzas.
 
 ## 💻 SQL
 
-**Proyecto 'Pizza Sales':** 🔗 [**Link**]()
+**Proyecto 'Pizza Sales':** 🔗 [**Link**](https://popsql.com/queries/-No2jud0rfRSZx59qnY9/pizza-sales?access_token=acc344688452e7b505fcfa84a59185ef)
 
 Queries sobre el dataset referido a una compañía ficticia dedicada a la venta de pizzas. 
 
@@ -45,9 +40,10 @@ Hecho en el marco de la Diplomatura en Ciencia de Datos de la FAMAF (UNC), se tr
 
 Hecho en el marco de la Diplomatura en Ciencia de Datos de la FAMAF (UNC), se trabaja con un data frame con datos correspondientes a más de 45 mil películas. Para cada una de ellas se pueden analizar 13 atributos diferentes, como el año de estreno, el género y su puntaje en la página de críticas y reseñas 'IMDB'. En este trabajo se explora y cura el dataset para luego poder aplicar técnicas de aprendizaje no supervisado que permiten generar clusters de películas.
 
-![](images/graph_non_supervised.png)
-
-
 ## 📈 R
 
+**Potenciar Trabajo con tidyverse:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/pot_trabajo.R)
 
+A partir de una base de datos provista por el Ministerio de Trabajo con un listado de titulares del programa social 'Potenciar Trabajo' se utiliza el paquete tidyverse para obtener tablas que permitan analizar mejor cómo está compuesto este conjunto de individuos. Por ejemplo, cómo se distribuyen por provincia y nivel educativo.
+
+![](images/pot_trabajo.png)
