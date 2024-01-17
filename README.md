@@ -35,7 +35,12 @@ Hecho en el marco de la Diplomatura en Ciencia de Datos de la FAMAF (UNC), se tr
 
 ![](images/graph_deep_learning.png)
 
-**Proyecto de Series de Tiempo 'Diabetes':** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Deep_Learning_Diabetes.ipynb)
+
+**Proyecto de Aprendizaje No Supervisado 'Películas IMDB':** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Non_Supervised_Movies.ipynb)
+
+Hecho en el marco de la Diplomatura en Ciencia de Datos de la FAMAF (UNC), se trabaja con un data frame con datos correspondientes a más de 45 mil películas. Para cada una de ellas se pueden analizar 13 atributos diferentes, como el año de estreno, el género y su puntaje en la página de críticas y reseñas 'IMDB'. En este trabajo se explora y cura el dataset para luego poder aplicar técnicas de aprendizaje no supervisado que permiten generar clusters de películas.
+
+![](images/graph_non_supervised.png)
 
 
 ## 📈 R
