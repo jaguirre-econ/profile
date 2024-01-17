@@ -13,6 +13,8 @@
 
 # Proyectos de análisis y ciencia de datos
 
+A continuación se puede acceder a diversos trabajos y documentos de mi autoría en los que fueron empleadas diferentes herramientas (*Power BI, SQL, Python, R, Paquete Office y LaTeX*).
+
 ## 📊 Power BI 
 
 **Proyecto 'Pizza Sales':** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Pizza%20Sales%20Report.pbix)
@@ -59,6 +61,13 @@ La Encuesta Permanente de Hogares (EPH) es una encuesta nacional de casi 100.000
 Tablas y gráficos sobre la base de estadísticas comparativas entre países miembros de la OCDE y Argentina, con foco en las disparidades de género.
 
 ![](images/graph_excel.png)
+
+## 🗒️ Informes y presentaciones
+
+- **Informe sobre la situación del mercado laboral y su relación con el nivel educativo:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/2023-07%20DR%20-%20Mercado%20Laboral%20y%20Educaci%C3%B3n%20Superior.pdf)
+- **Presentación en PowerPoint sobre Sector de la Salud:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/IERAL%20-%20Salud%202021%20al%20I%2023.pdf)
+- **Presentación de Tesis de Grado con Beamer:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Presentaci%C3%B3n_Trabajo_Final.pdf)
+- **Documento en RMarkdown con sintaxis de LaTeX:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Gu%C3%ADa%20de%20Ejercicios%20de%20Econometr%C3%ADa%20II%20en%20RMarkdown.pdf)
 
 
 
