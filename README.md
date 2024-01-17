@@ -14,16 +14,16 @@
 
 # Proyectos de análisis y ciencia de datos
 
-## Power BI 📊
+## 📊 Power BI 
 
 **Pizza Sales:** dashboard referido a una compañía ficticia dedicada a la venta de pizzas. [Link al repositorio]()
 
 ![](images/bi_report_1.png)
 
-## SQL 💻
+## 💻 SQL 
 
-## Python 🐍
+## 🐍 Python 
 
-## R 📈
+## 📈 R 
 
 
