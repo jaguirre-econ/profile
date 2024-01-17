@@ -47,3 +47,18 @@ Hecho en el marco de la Diplomatura en Ciencia de Datos de la FAMAF (UNC), se tr
 A partir de una base de datos provista por el Ministerio de Trabajo con un listado de titulares del programa social 'Potenciar Trabajo' se utiliza el paquete tidyverse para obtener tablas que permitan analizar mejor cómo está compuesto este conjunto de individuos. Por ejemplo, cómo se distribuyen por provincia y nivel educativo.
 
 ![](images/pot_trabajo.png)
+
+**Estadísticas del Mercado Laboral con EPH:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/merc_lab.R)
+
+La Encuesta Permanente de Hogares (EPH) es una encuesta nacional de casi 100.000 individuos de perioricidad trimestral. Con este script se obtienen diferentes estadísticas sobre la situación del mercado laboral, como las tasas de desempleo y de ocupación. Se pueden utilizar diferentes criterios para filtrar los resultados, como la provincia de residencia, el nivel educativo, el género o la edad.
+
+## 🟩 Excel
+
+**Estadísticas comparativas entre países de la OCDE:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Gr%C3%A1ficos%20OCDE.xlsx)
+
+Tablas y gráficos sobre la base de estadísticas comparativas entre países miembros de la OCDE y Argentina, con foco en las disparidades de género.
+
+![](images/graph_excel.png)
+
+
+
