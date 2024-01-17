@@ -13,6 +13,9 @@
 
 [Python](#python)
 
+[Python](#🐍python)
+
+
 # Proyectos de análisis y ciencia de datos
 
 ## 📊 Power BI 
