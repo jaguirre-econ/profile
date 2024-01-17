@@ -17,7 +17,7 @@
 ## Power BI
 
 **Pizza Sales:** dashboard referido a una compañía ficticia dedicada a la venta de pizzas. [Link al repositorio]()
-![](images/Pizza_Power_BI_Report_Page_1.jpg)
+![](images/bi_report_1.jpg)
 
 ## SQL
 
