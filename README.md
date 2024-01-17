@@ -11,6 +11,8 @@
 
 ### 📄 [Link a CV](https://github.com/jaguirre-econ/profile/blob/main/CV%20-%20Aguirre%2C%20Joaqu%C3%ADn.pdf)
 
+[Python](#python)
+
 # Proyectos de análisis y ciencia de datos
 
 ## 📊 Power BI 
