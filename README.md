@@ -23,6 +23,8 @@ Dashboard referido a una compañía ficticia dedicada a la venta de pizzas.
 
 ![](images/bi_report_1.png)
 
+![](images/bi_report_2.png)
+
 ## 💻 SQL
 
 **Proyecto 'Pizza Sales':** 🔗 [**Link**](https://popsql.com/queries/-No2jud0rfRSZx59qnY9/pizza-sales?access_token=acc344688452e7b505fcfa84a59185ef)
