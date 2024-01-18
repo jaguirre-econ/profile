@@ -1,6 +1,6 @@
 # Joaquín Aguirre
 
-**Bachelor's Degree in Economics** graduate from the National University of Córdoba (UNC), Diploma in Data Science from the FAMAF of the UNC and student of the Master's Degree in Econometrics at the Torcuato Di Tella University (UTDT), with experience in consulting and academic research.
+Argentinian **Bachelor's Degree in Economics** graduate from the National University of Córdoba (UNC), Diploma in Data Science from the FAMAF of the UNC and student of the Master's Degree in Econometrics at the Torcuato Di Tella University (UTDT), with experience in consulting and academic research.
 
 **Interests**: statistics, data science and analysis, econometrics, economics.
 
