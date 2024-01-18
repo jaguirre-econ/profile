@@ -1,25 +1,25 @@
 # Joaquín Aguirre
 
-**Licenciado en Economía** por la Universidad Nacional de Córdoba (UNC), Diplomado en Ciencia de Datos por la FAMAF de la UNC y estudiante de la Maestría en Econometría de la Universidad Torcuato Di Tella (UTDT), con experiencia en consultoría e investigación académica.
+**Bachelor's Degree in Economics** graduate from the National University of Córdoba (UNC), Diploma in Data Science from the FAMAF of the UNC and student of the Master's Degree in Econometrics at the Torcuato Di Tella University (UTDT), with experience in consulting and academic research.
 
-**Intereses:** estadística, análisis y ciencia de datos, econometría, economía.
+**Interests**: statistics, data science and analysis, econometrics, economics.
 
-*Contacto:*
+*Contact information:*
 - ✉️ **e-mail**: jaguirre@mi.unc.edu.ar
-- ☎️ **Teléfono**: +5493513993271
+- ☎️ **Phone**: +5493513993271
 - 🔗 **LinkedIn**: [jaguirre-econ](https://www.linkedin.com/in/jaguirre-econ/)
 
-### 📄 [Link a CV](https://github.com/jaguirre-econ/profile/blob/main/CV%20-%20Aguirre%2C%20Joaqu%C3%ADn.pdf)
+### 📄 [Link to CV](https://github.com/jaguirre-econ/profile/blob/main/CV%20-%20Aguirre%2C%20Joaqu%C3%ADn.pdf)
 
-# Proyectos de análisis y ciencia de datos
+# Data science and analysis projects
 
-A continuación se puede acceder a diversos trabajos y documentos de mi autoría en los que fueron empleadas diferentes herramientas (*Power BI, SQL, Python, R, Paquete Office y LaTeX*).
+Below you can access various works and documents of my authorship in which different tools were used (*Power BI, SQL, Python, R, Microsoft Office and LaTeX* ).
 
 ## 📊 Power BI 
 
-**Proyecto 'Pizza Sales':** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Pizza%20Sales%20Report.pbix)
+**'Pizza Sales' Project:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Pizza%20Sales%20Report.pbix)
 
-Dashboard referido a una compañía ficticia dedicada a la venta de pizzas. 
+Dashboard referring to a fictitious company dedicated to the sale of pizzas.
 
 ![](images/bi_report_1.png)
 
@@ -27,49 +27,48 @@ Dashboard referido a una compañía ficticia dedicada a la venta de pizzas.
 
 ## 💻 SQL
 
-**Proyecto 'Pizza Sales':** 🔗 [**Link**](https://popsql.com/queries/-No2jud0rfRSZx59qnY9/pizza-sales?access_token=acc344688452e7b505fcfa84a59185ef)
+**'Pizza Sales' Project:** 🔗 [**Link**](https://popsql.com/queries/-No2jud0rfRSZx59qnY9/pizza-sales?access_token=acc344688452e7b505fcfa84a59185ef)
 
-Queries sobre el dataset referido a una compañía ficticia dedicada a la venta de pizzas. 
+Queries about the dataset referring to a fictitious company dedicated to the sale of pizzas.
 
 ## 🐍 Python 
 
-**Proyecto de Deep Learning 'Diabetes':** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Deep_Learning_Diabetes.ipynb)
+**'Diabetes' Deep Learning Project:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Deep_Learning_Diabetes.ipynb)
 
-Hecho en el marco de la Diplomatura en Ciencia de Datos de la FAMAF (UNC), se trabaja con un dataset con 70.692 entradas y 21 variables correspondiente a los resultados de una encuesta telefónica hecha en Estados Unidos en la que se le pregunta a cientos de miles de personas sobre sus condiciones de salud, siendo la mitad de los encuestados no diabéticos (Diabetes_binary = 0), y la otra mitad diabéticos (Diabetes_binary = 1). Luego de explorar el dataset (EDA) se entrenan modelos de redes neuronales que puedan predecir correctamente si un individuo es o no diabético de acuerdo a sus otras característcas. 
+I work with a dataset with 70,692 entries and 21 variables corresponding to the results of a telephone survey carried out in the United States in which hundreds of thousands of people answered about their health conditions, with half of the respondents being non-diabetic (Diabetes_binary = 0), and the other half diabetic (Diabetes_binary = 1). After exploring the dataset (EDA), neural network models that can correctly predict whether an individual is diabetic or not according to their other characteristics are trained.
 
 ![](images/graph_deep_learning.png)
 
+**'IMDB Movies' Unsupervised Learning Project:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Non_Supervised_Movies.ipynb)
 
-**Proyecto de Aprendizaje No Supervisado 'Películas IMDB':** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Non_Supervised_Movies.ipynb)
-
-Hecho en el marco de la Diplomatura en Ciencia de Datos de la FAMAF (UNC), se trabaja con un data frame con datos correspondientes a más de 45 mil películas. Para cada una de ellas se pueden analizar 13 atributos diferentes, como el año de estreno, el género y su puntaje en la página de críticas y reseñas 'IMDB'. En este trabajo se explora y cura el dataset para luego poder aplicar técnicas de aprendizaje no supervisado que permiten generar clusters de películas.
+I work with a data frame with data corresponding to more than 45 thousand movies. For each of them, 13 different attributes can be analyzed, such as the year of release, the genre and its score on the 'IMDB' reviews page. In this project, the dataset is explored and curated to then be able to apply unsupervised learning techniques that allow the creation of movie clusters.
 
 ## 📈 R
 
-**Potenciar Trabajo con tidyverse:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/pot_trabajo.R)
+**'Potenciar Trabajo' social program with tidyverse:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/pot_trabajo.R)
 
-A partir de una base de datos provista por el Ministerio de Trabajo con un listado de titulares del programa social 'Potenciar Trabajo' se utiliza el paquete tidyverse para obtener tablas que permitan analizar mejor cómo está compuesto este conjunto de individuos. Por ejemplo, cómo se distribuyen por provincia y nivel educativo.
+From a database provided by the Ministry of Labor with a list of holders of the social program 'Potenciar Trabajo', the tidyverse package is used to obtain tables that allow a better analysis of how this group of individuals is composed. For example, how they are distributed by province and educational level.
 
 ![](images/pot_trabajo.png)
 
-**Estadísticas del Mercado Laboral con EPH:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/merc_lab.R)
+**Labor Market Statistics with the EPH database:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/merc_lab.R)
 
-La Encuesta Permanente de Hogares (EPH) es una encuesta nacional de casi 100.000 individuos de perioricidad trimestral. Con este script se obtienen diferentes estadísticas sobre la situación del mercado laboral, como las tasas de desempleo y de ocupación. Se pueden utilizar diferentes criterios para filtrar los resultados, como la provincia de residencia, el nivel educativo, el género o la edad.
+The Permanent Household Survey (EPH) is a national survey of almost 100,000 individuals on a quarterly basis. With this script, different statistics are obtained about the situation of the labor market, such as unemployment and employment rates. Different criteria can be used to filter the results, such as province of residence, educational level, gender or age.
 
 ## 🟩 Excel
 
-**Estadísticas comparativas entre países de la OCDE:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Gr%C3%A1ficos%20OCDE.xlsx)
+**Comparative statistics between OECD countries:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Gr%C3%A1ficos%20OCDE.xlsx)
 
-Tablas y gráficos sobre la base de estadísticas comparativas entre países miembros de la OCDE y Argentina, con foco en las disparidades de género.
+Tables and graphs based on comparative statistics between OECD member countries and Argentina, focusing on gender disparities.
 
 ![](images/graph_excel.png)
 
-## 🗒️ Informes y presentaciones
+## 🗒️ Reports and presentations
 
-- **Informe sobre la situación del mercado laboral y su relación con el nivel educativo:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/2023-07%20DR%20-%20Mercado%20Laboral%20y%20Educaci%C3%B3n%20Superior.pdf)
-- **Presentación en PowerPoint sobre Sector de la Salud:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/IERAL%20-%20Salud%202021%20al%20I%2023.pdf)
-- **Presentación de Tesis de Grado con Beamer:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Presentaci%C3%B3n_Trabajo_Final.pdf)
-- **Documento en RMarkdown con sintaxis de LaTeX:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Gu%C3%ADa%20de%20Ejercicios%20de%20Econometr%C3%ADa%20II%20en%20RMarkdown.pdf)
+- **Report on the situation of the labor market and its relationship with the educational level:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/2023-07%20DR%20-%20Mercado%20Laboral%20y%20Educaci%C3%B3n%20Superior.pdf)
+- **PowerPoint presentation on the Health Sector:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/IERAL%20-%20Salud%202021%20al%20I%2023.pdf)
+- **Presentation of BA's Degree Thesis with Beamer:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Presentaci%C3%B3n_Trabajo_Final.pdf)
+- **RMarkdown document with LaTeX sintax:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Gu%C3%ADa%20de%20Ejercicios%20de%20Econometr%C3%ADa%20II%20en%20RMarkdown.pdf)
 
 
 
