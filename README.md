@@ -1,6 +1,6 @@
 # Joaquín Aguirre
 
-Argentinian **Bachelor's Degree in Economics** graduate from the National University of Córdoba (UNC), Diploma in Data Science from the FAMAF of the UNC and student of the Master's Degree in Econometrics at the Torcuato Di Tella University (UTDT), with experience in consulting and academic research.
+Argentinian **Bachelor's Degree in Economics** graduate from the National University of Córdoba (UNC), Diploma in Data Science from the FAMAF of the UNC and student of the Master of Science in Econometrics at the Torcuato Di Tella University (UTDT), with experience in consulting and academic research.
 
 **Interests**: statistics, data science and analysis, econometrics, economics.
 
@@ -41,7 +41,7 @@ I work with a dataset with 70,692 entries and 21 variables corresponding to the 
 
 **'IMDB Movies' Unsupervised Learning Project:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Non_Supervised_Movies.ipynb)
 
-I work with a data frame with data corresponding to more than 45 thousand movies. For each of them, 13 different attributes can be analyzed, such as the year of release, the genre and its score on the 'IMDB' reviews page. In this project, the dataset is explored and curated to then be able to apply unsupervised learning techniques that allow the creation of movie clusters.
+I work with a dataset with data corresponding to more than 45 thousand movies. For each of them, 13 different attributes can be analyzed, such as the year of release, the genre and its score on the 'IMDB' reviews page. In this project, the dataset is explored and curated to then be able to apply unsupervised learning techniques that allow the creation of movie clusters.
 
 ## 📈 R
 
