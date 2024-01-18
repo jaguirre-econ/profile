@@ -9,7 +9,7 @@ Argentinian **Bachelor's Degree in Economics** graduate from the National Univer
 - ☎️ **Phone**: +5493513993271
 - 🔗 **LinkedIn**: [jaguirre-econ](https://www.linkedin.com/in/jaguirre-econ/)
 
-### 📄 [Link to CV](https://github.com/jaguirre-econ/profile/blob/main/CV%20-%20Aguirre%2C%20Joaqu%C3%ADn.pdf)
+### 📄 [Link to CV](https://github.com/jaguirre-econ/profile/CV%20-%20Joaqu%C3%ADn%20Aguirre%20(en).pdf)
 
 # Data science and analysis projects
 
