@@ -25,11 +25,23 @@ Dashboard referring to a fictitious company dedicated to the sale of pizzas.
 
 ![](images/bi_report_2.png)
 
+**'Call Center' Project:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Call%20Center%20Report.pbix)
+
+Dashboard referring to a call center company.
+
+![](images/bi_report_3.png)
+
+![](images/bi_report_4.png)
+
 ## 💻 SQL
 
 **'Pizza Sales' Project:** 🔗 [**Link**](https://popsql.com/queries/-No2jud0rfRSZx59qnY9/pizza-sales?access_token=acc344688452e7b505fcfa84a59185ef)
 
 Queries about the dataset referring to a fictitious company dedicated to the sale of pizzas.
+
+**'Call Center' Project:** 🔗 [**Link**]()
+
+Queries about the dataset referring to a call center company.
 
 ## 🐍 Python 
 
