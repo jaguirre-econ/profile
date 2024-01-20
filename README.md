@@ -39,7 +39,7 @@ Dashboard referring to a call center company.
 
 Queries about the dataset referring to a fictitious company dedicated to the sale of pizzas.
 
-**'Call Center' Project:** 🔗 [**Link**]()
+**'Call Center' Project:** 🔗 [**Link**](https://popsql.com/queries/-NobXtad2CbNQI9Jftxr/call-centers?run_id=59698639)
 
 Queries about the dataset referring to a call center company.
 
