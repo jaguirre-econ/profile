@@ -1,6 +1,6 @@
 # Joaquín Aguirre
 
-Argentinian student pursuing a Master's Degree in **Econometrics** at the Torcuato Di Tella University (UTDT), holding a Bachelor's Degree in **Economics** from the National University of Córdoba (([UNC](https://github.com/jaguirre-econ/perfil/blob/main/T%C3%ADtulo1.jpg)), and a Diploma in **Data Science** from the [FAMAF](https://github.com/jaguirre-econ/perfil/blob/main/Certificado%20Diplodatos.pdf) of the UNC, with experience in consulting, Marketing Mix Modeling and academic research.
+Argentinian student pursuing a Master's Degree in **Econometrics** at the Torcuato Di Tella University (UTDT), holding a Bachelor's Degree in **Economics** from the National University of Córdoba ([UNC](https://github.com/jaguirre-econ/perfil/blob/main/T%C3%ADtulo1.jpg)), and a Diploma in **Data Science** from the [FAMAF](https://github.com/jaguirre-econ/perfil/blob/main/Certificado%20Diplodatos.pdf) of the UNC, with experience in consulting, Marketing Mix Modeling and academic research.
 
 **Interests**: statistics, data science, data analytics, econometrics, economics, research.
 
