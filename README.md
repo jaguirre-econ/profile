@@ -9,7 +9,7 @@ Argentinian student pursuing a Master's Degree in **Econometrics** at the Torcua
 - ☎️ **Phone**: +5493513993271
 - 🔗 **LinkedIn**: [jaguirre-econ](https://www.linkedin.com/in/jaguirre-econ/?locale=en_US)
 
-### 📄 [Link to CV](https://github.com/jaguirre-econ/profile/blob/main/CV%20-%20Aguirre%2C%20Joaqu%C3%ADn%20(en).pdf)
+### 📄 [Link to CV](https://github.com/jaguirre-econ/profile/blob/main/CV%20-%20Aguirre%2C%20Joaqu%C3%ADn%20(english).pdf)
 
 # Data science and analysis projects
 
