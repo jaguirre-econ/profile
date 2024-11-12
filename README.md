@@ -1,6 +1,6 @@
 # Joaquín Aguirre
 
-Argentinian student pursuing a Master's Degree in **Econometrics** at the Torcuato Di Tella University (UTDT), holding a Bachelor's Degree in **Economics** from the National University of Córdoba (UNC), and a Diploma in **Data Science** from the FAMAF of the UNC, with experience in consulting, Marketing Mix Modeling and academic research.
+Argentinian student pursuing a Master's Degree in **Econometrics** at the Torcuato Di Tella University (UTDT), holding a Bachelor's Degree in **Economics** from the National University of Córdoba (([UNC](https://github.com/jaguirre-econ/perfil/blob/main/T%C3%ADtulo1.jpg)), and a Diploma in **Data Science** from the [FAMAF](https://github.com/jaguirre-econ/perfil/blob/main/Certificado%20Diplodatos.pdf) of the UNC, with experience in consulting, Marketing Mix Modeling and academic research.
 
 **Interests**: statistics, data science, data analytics, econometrics, economics, research.
 
@@ -82,6 +82,13 @@ Tables and graphs based on comparative statistics between OECD member countries 
 - **Beamer Presentation of Academic Paper for the AAEP Congress:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/AAEP_57_Slides_Rezk.pdf)
 - **Presentation of BA's Degree Thesis with Beamer:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Presentaci%C3%B3n_Trabajo_Final.pdf)
 - **RMarkdown document with LaTeX sintax:** 🔗 [**Link**](https://github.com/jaguirre-econ/Proyectos-Ciencia-de-Datos/blob/main/Gu%C3%ADa%20de%20Ejercicios%20de%20Econometr%C3%ADa%20II%20en%20RMarkdown.pdf)
+
+## 🎤 Newspaper articles and interviews:
+
+- **TV interview for Canal C:** 🔗 [**Link**](https://www.youtube.com/watch?v=jVsgBqtRw0Y)
+- **Article in Infobae:** [**Link**](https://www.infobae.com/economia/2023/07/24/los-trabajadores-en-negro-perdieron-41-puntos-de-poder-adquisitivo-en-los-ultimos-siete-anos/)
+- **Article in Infobae:** [**Link**](https://www.infobae.com/economia/2023/10/01/empleo-salarios-educacion-por-que-para-reducir-la-pobreza-la-clave-es-capacitar-mas-no-trabajar-menos/)
+- **Article in MDZ Online:** [**Link**](https://www.mdzol.com/dinero/2023/10/4/jornada-laboral-los-datos-de-una-discusion-fuera-de-tiempo-373258.html)
 
 
 
